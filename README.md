@@ -22,3 +22,7 @@ Projekat rađen u Istraživačkoj stanici Petnica, na seminaru elektronike. Cikl
 
 <br><br>**DNEVNIK RADA**
 _1. jul 2023._
+- sastavila sam kolo (fali izvor od 9V)
+- instalirala TLSPICE, jer MATLAB nemam način da instaliram
+- rešila problem napajanja
+  
