@@ -21,11 +21,11 @@ Projekat rađen u Istraživačkoj stanici Petnica, na seminaru elektronike. Cikl
 <br>upoređivanje rezultata dobijenih pomoću kola na proto board-u i na štampanoj ploči
 
 <br><br>**DNEVNIK RADA**
-_subota, 1. jul 2023._
+<br>_subota, 1. jul 2023._
 - sastavila sam kolo (fali izvor od 9V)
 - instalirala TLSPICE, jer MATLAB nemam način da instaliram
 - rešila problem napajanja
-_nedelja, 2. jul 2023._
+<br>_nedelja, 2. jul 2023._
 - uz pomoć stručnih saradnika, naučila sam kako se rešavanju kola pomoću diferencijalnih jednačina i pomoću Laplasovog pravila. Takođe, upoznala sam se sa pojmom jednačina stanja kola i onsnovama rešavanja električnih kola. 
 - dva puta sam konstrusala Čua kolo na proto bordu. Ni jednom nisam uspela da uočim haos na osciloskopu. Nakon što sam se uverila da greška nije do spajanja komponenata, odlučila sam da napravim simulaciju u LTspice-u (to je simulacija sa integrisanim kolom TL082). Tamo, takođe nisam imala pokazatelje haosa. Zbog toga odlučila sam da promenim šemu kola  i Čua diodu konstruišem na drugačiji način. 
   
