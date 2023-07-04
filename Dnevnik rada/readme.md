@@ -1,3 +1,5 @@
+TO DO LIST: https://docs.google.com/document/d/1Cj1unGtLQEU8l7k70o4UbekOnB9Lpk5HJaf42gSUOio/edit?usp=sharing
+
 <br><br>**DNEVNIK RADA**
 <br>_subota, 1. jul 2023._
 - sastavila sam kolo (fali izvor od 9V)
