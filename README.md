@@ -14,6 +14,9 @@ GIF haosa uočenom na digitalnom osciloskopu:
 <br>
 ![cua_haos_2](https://github.com/jovanajanjatovic/Haos-u-Cua-oscilatoru/assets/112614758/c72536bb-d110-443b-a612-aeafdf116a1a)
 
-![cua_haos](https://github.com/jovanajanjatovic/Haos-u-Cua-oscilatoru/assets/112614758/6fde0002-dd38-4216-9c58-145d72a08132)
+<br>
+
+![cua_haos](https://github.com/jovanajanjatovic/Haos-u-Cua-oscilatoru/assets/112614758/89ae54bb-868d-467a-a895-32ad4264c8f9)
+
 
 
