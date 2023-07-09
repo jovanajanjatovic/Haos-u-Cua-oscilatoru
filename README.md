@@ -12,6 +12,8 @@ Cilj projekta je simulacija i sinhronizacija haosa u Čua oscilatoru. Na zimskom
 <br>
 GIF haosa uočenom na digitalnom osciloskopu:
 <br>
-https://media.discordapp.net/attachments/981102829966073886/1126180775193227304/cua_haos.gif
+![cua_haos_2](https://github.com/jovanajanjatovic/Haos-u-Cua-oscilatoru/assets/112614758/c72536bb-d110-443b-a612-aeafdf116a1a)
+
+![cua_haos](https://github.com/jovanajanjatovic/Haos-u-Cua-oscilatoru/assets/112614758/6fde0002-dd38-4216-9c58-145d72a08132)
 
 
