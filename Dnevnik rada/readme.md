@@ -29,7 +29,7 @@ TO DO LIST: https://docs.google.com/document/d/1Cj1unGtLQEU8l7k70o4UbekOnB9Lpk5H
 
 <br>Samostalno istraživanje: 
 - Zašto se u kolu javlja haos?
-Zbog postojanja elementa sa nelinearnom U-I karakteristikom (u ovom slučaju Čua diode) 
 - Koji su pokazatelji haosa električnom kolu?
-<br> Fazni dijagrami i vremenski signali, bifurkacioni dijagram, autokorelaciona funkcija, spektar snage, Poenkareovi preseci, Ljapunovljevi eksponenti i efekat leptira, Necelobrojne dimenzije atraktora.,  
+<br> Fazni dijagrami i vremenski signali, bifurkacioni dijagram, autokorelaciona funkcija, spektar snage, Poenkareovi preseci, Ljapunovljevi eksponenti i efekat leptira, Necelobrojne dimenzije atraktora.
+- Razlika između implementacije Čua diode pomoću operacionih pojačivača i pomoću dioda. 
 
