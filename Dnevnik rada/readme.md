@@ -31,8 +31,10 @@ TO DO LIST: https://docs.google.com/document/d/1Cj1unGtLQEU8l7k70o4UbekOnB9Lpk5H
 - Zašto se u kolu javlja haos?
 - Koji su pokazatelji haosa električnom kolu?
 <br> Fazni dijagrami i vremenski signali, bifurkacioni dijagram, autokorelaciona funkcija, spektar snage, Poenkareovi preseci, Ljapunovljevi eksponenti i efekat leptira, Necelobrojne dimenzije atraktora.
-- Zašto se izbegava korišćenje zavojnice u Čua kolu i čime se ona menja? (https://www.viser.edu.rs/uploads/2018/09/30.pdf - 36. strana)
-
+- Zašto se izbegava korišćenje zavojnice u Čua kolu i čime se ona menja? 
+Pošto je teško da se dođe do tačnih i preciznih vrednosti induktivnosti kalema, on se zamenjuje žiratorom (gyrator, Antoniou Inductance-Simulation kolo). Žirator u kolu ima ulogu pozitivnog invertora impedanse (PII). 
+<br> lit: http://www.chuacircuits.com/PDFs/Antoniou%20Inductance-Simulation%20Circuit.pdf
+<br> https://www.viser.edu.rs/uploads/2018/09/30.pdf - 36. strana
 - Razlika između implementacije Čua diode pomoću operacionih pojačivača i pomoću dioda. 
 <br> *pomoću op amp-a*
 <br>
