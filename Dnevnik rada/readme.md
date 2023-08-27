@@ -27,6 +27,7 @@ TO DO LIST: https://docs.google.com/document/d/1Cj1unGtLQEU8l7k70o4UbekOnB9Lpk5H
 
 ### period između zimskog i letnjeg seminara
 
+<br>
 Samostalno istraživanje: 
 - Zašto se u kolu javlja haos?
 
