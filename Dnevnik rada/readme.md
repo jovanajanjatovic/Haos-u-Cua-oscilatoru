@@ -25,3 +25,6 @@ TO DO LIST: https://docs.google.com/document/d/1Cj1unGtLQEU8l7k70o4UbekOnB9Lpk5H
 - Konstruisala sam treću šemu kola, koja sadrži jedan pperacioni pojačavač i diode. U njoj sam uspela da pobudim haos, koji sam uočila na analognom osciloskopu.
 <br>
 ## period između zimskog i letnjeg seminara
+
+Samostalno istraživanje: 
+Pokazatelji haosa u Čua kolu: 
