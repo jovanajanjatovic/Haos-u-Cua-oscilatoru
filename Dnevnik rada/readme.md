@@ -12,7 +12,7 @@ TO DO LIST: https://docs.google.com/document/d/1Cj1unGtLQEU8l7k70o4UbekOnB9Lpk5H
 <br>_ponedeljak, 3. jul 2023._
 - sastavila sam kolo na ploči i zalemila komponente prateći šemu.
 - Kada radim sa oscilatornim kolom, moguća je oscilacija napona koja nije poželjna kada pokušavam da pobudim haos u kolu, a javlja se pri upotrebi operacionih pojačavača. Zbog toga, dodajem dva Bypass kondenzatora na Vcc+ i  Vcc- pinove TL082. (primer za pozitivan pin: jedan kraj kondenzatora vežem za COM, a drugi za pin 8, odnosno Vcc+)
-- Kako ne postoje indukrivnosti sa vrednošću od 18mH, moja prvobitna ideja bila je da vežem redno tri induktivnosti: 15, 1.5 i 1.5. Kolo sa tim stvara haos, ali to nije pravilan način za vezivanje induktivnosti. Umesto njih, koristila sam drugačije kolo koje je menjalo te induktivnosti. Haos se stvara u oba slučaja.
+- Kako ne postoje indukrivnosti sa vrednošću od 18mH, moja prvobitna ideja bila je da vežem redno tri induktivnosti: 15, 1.5 i 1.5. Kolo sa tim stvara haos, ali to nije pravilan način za vezivanje induktivnosti. Umesto njih, koristila sam drugačije kolo koje je menjalo te induktivnosti. Haos se stvara u oba slučaja, ali se izbegava upotreba kalema 
 - Ukoliko mi ne radi, treba proveriti sledeće: da li je dobro povezano? (obavezn proveriti šemu!!) da li su COM i +9 i -9 na dobrim mestima? da li postoje kratki spojevi? mogu pomoću ultimetra gledati napon koji se nalaz na pinovima integrisanog kola, ne treba da bude čist jer, ako je dobro povezano i ako je inttegrisano kolo ispravno (ako ga nisam spalila ;)), onda mora da postoji neki gubiak 1-2V.
 - Kada sam uspela da dovedem kolo u mood da osciluje i da je u rezonanciji, treba menjati vrednosti na potenciometrima dok ne uočim haos.
 <br>_sreda, 4. jul 2023._
@@ -31,6 +31,8 @@ TO DO LIST: https://docs.google.com/document/d/1Cj1unGtLQEU8l7k70o4UbekOnB9Lpk5H
 - Zašto se u kolu javlja haos?
 - Koji su pokazatelji haosa električnom kolu?
 <br> Fazni dijagrami i vremenski signali, bifurkacioni dijagram, autokorelaciona funkcija, spektar snage, Poenkareovi preseci, Ljapunovljevi eksponenti i efekat leptira, Necelobrojne dimenzije atraktora.
+- Zašto se izbegava korišćenje zavojnice u Čua kolu i čime se ona menja? (https://www.viser.edu.rs/uploads/2018/09/30.pdf - 36. strana)
+
 - Razlika između implementacije Čua diode pomoću operacionih pojačivača i pomoću dioda. 
 <br> *pomoću op amp-a*
 <br>
