@@ -35,8 +35,11 @@ TO DO LIST: https://docs.google.com/document/d/1Cj1unGtLQEU8l7k70o4UbekOnB9Lpk5H
 <br>Pošto je teško da se dođe do tačnih i preciznih vrednosti induktivnosti kalema, on se zamenjuje žiratorom (gyrator, Antoniou Inductance-Simulation kolo). Žirator u kolu ima ulogu pozitivnog invertora impedanse (PII). 
 <br> lit: http://www.chuacircuits.com/PDFs/Antoniou%20Inductance-Simulation%20Circuit.pdf
 <br> https://www.viser.edu.rs/uploads/2018/09/30.pdf - 36. strana
-- Razlika između implementacije Čua diode pomoću operacionih pojačivača i pomoću dioda. 
+- Istražiti o dve implementacije Čua diode: pomoću operacionih pojačivača i pomoću dioda. 
 <br> *pomoću op amp-a*
 <br> Operacioni pojačivači (razjasniti pojmove: invertorski i neinvertorski pojačavač, pozitivna i negativna sprega, Šmitov komparator)
+
 <br> lit: http://leda.elfak.ni.ac.rs/education/elektronika/predavanja/2020-2021/T/03.12/Operacioni%20pojacavaci_3.12.pdf
+<br> https://www.youtube.com/watch?v=hJe2uhRcydk
+<br> https://scindeks-clanci.ceon.rs/data/pdf/0040-2176/2019/0040-21761904549M.pdf
 
