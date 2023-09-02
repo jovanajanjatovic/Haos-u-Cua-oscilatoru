@@ -28,7 +28,6 @@ TO DO LIST: https://docs.google.com/document/d/1Cj1unGtLQEU8l7k70o4UbekOnB9Lpk5H
 ## period između zimskog i letnjeg seminara
 
 <br>Samostalno istraživanje: 
-- Zašto se u kolu javlja haos?
 - Koji su pokazatelji haosa električnom kolu?
 <br> Fazni dijagrami i vremenski signali, bifurkacioni dijagram, autokorelaciona funkcija, spektar snage, Poenkareovi preseci, Ljapunovljevi eksponenti i efekat leptira, Necelobrojne dimenzije atraktora.
 - Zašto se izbegava korišćenje zavojnice u Čua kolu i čime se ona menja? 
@@ -43,3 +42,7 @@ TO DO LIST: https://docs.google.com/document/d/1Cj1unGtLQEU8l7k70o4UbekOnB9Lpk5H
 <br> https://www.youtube.com/watch?v=hJe2uhRcydk
 <br> https://scindeks-clanci.ceon.rs/data/pdf/0040-2176/2019/0040-21761904549M.pdf
 
+- Simulacija u LTSpice-u: 
+
+
+<br> lit: https://www.chaotic-circuits.com/8-simulating-chaus-circuit-with-ltspice/
