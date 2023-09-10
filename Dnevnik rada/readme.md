@@ -42,7 +42,9 @@ TO DO LIST: https://docs.google.com/document/d/1Cj1unGtLQEU8l7k70o4UbekOnB9Lpk5H
 <br> https://www.youtube.com/watch?v=hJe2uhRcydk
 <br> https://scindeks-clanci.ceon.rs/data/pdf/0040-2176/2019/0040-21761904549M.pdf
 
+- Pojam bifurkacije: kvalitativne promene dinamike sistema (detaljnije na 33. str http://elibrary.matf.bg.ac.rs/bitstream/handle/123456789/3531/Uvod%20u%20teoriju%20haosa.pdf?sequence=1)
 - Simulacija u LTSpice-u: 
+![image](https://github.com/jovanajanjatovic/Haos-u-Cua-oscilatoru/assets/112614758/9280739d-9510-4c59-ac32-1953819501d8)
 
 
 <br> lit: https://www.chaotic-circuits.com/8-simulating-chaus-circuit-with-ltspice/
