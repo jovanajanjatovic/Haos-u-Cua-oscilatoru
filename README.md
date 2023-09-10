@@ -6,7 +6,8 @@ Postojanje haosa u nekom sistemu može da se utvrdi na tri načina:
 <br>1. numerički
 <br>2. eksperimentalno
 <br>3. analitički
-Neki od pokazatelja haosa u električnom kolu su: 
+Neki od pokazatelja haosa u električnom kolu su: Fazni dijagrami i vremenski signali, bifurkacioni dijagram, autokorelaciona funkcija, spektar snage, Poenkareovi preseci, Ljapunovljevi eksponenti i efekat leptira, Necelobrojne dimenzije atraktora.
+
 <br>šema kola 1 (koristeći 2 operaciona pojačivača za realizaciju Čua diode): 
 <br>
 ![image](https://github.com/jovanajanjatovic/Haos-u-Cua-oscilatoru/assets/112614758/719c2451-1889-43fe-b120-76d9445a2498)
