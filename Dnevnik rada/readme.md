@@ -48,3 +48,6 @@ TO DO LIST: https://docs.google.com/document/d/1Cj1unGtLQEU8l7k70o4UbekOnB9Lpk5H
 
 
 <br> lit: https://www.chaotic-circuits.com/8-simulating-chaus-circuit-with-ltspice/
+
+## letnji seminar 
+ napravljena je šema i Layought u programu Proteus. Hemijskim putem, napravljena je štampana ploča na koju su zalemljene odgovarajuće komponente.
