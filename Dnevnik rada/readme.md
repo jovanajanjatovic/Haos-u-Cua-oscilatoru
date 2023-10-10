@@ -51,3 +51,5 @@ TO DO LIST: https://docs.google.com/document/d/1Cj1unGtLQEU8l7k70o4UbekOnB9Lpk5H
 
 ## letnji seminar 
  napravljena je šema i Layought u programu Proteus. Hemijskim putem, napravljena je štampana ploča na koju su zalemljene odgovarajuće komponente.
+ ![image](https://github.com/jovanajanjatovic/Haos-u-Cua-oscilatoru/assets/112614758/6fc108e1-e7b9-4d62-ab2a-20a3b23d88e3)
+
