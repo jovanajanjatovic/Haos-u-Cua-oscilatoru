@@ -7,7 +7,7 @@ TO DO LIST: https://docs.google.com/document/d/1Cj1unGtLQEU8l7k70o4UbekOnB9Lpk5H
 - završila sa instalacijom TLSPICE
 - rešila problem napajanja
 <br>_nedelja, 2. jul 2023._
-- uz pomoć stručnih saradnika, naučila sam kako se rešavanju kola pomoću diferencijalnih jednačina i pomoću Laplasovog pravila. Takođe, upoznala sam se sa pojmom jednačina stanja kola i onsnovama rešavanja električnih kola. 
+- uz pomoć stručnih saradnika, naučila sam kako se rešavaju kola pomoću diferencijalnih jednačina i pomoću Laplasovog pravila. Takođe, upoznala sam se sa pojmom jednačina stanja kola i onsnovama rešavanja električnih kola (TEK). 
 - dva puta sam konstrusala Čua kolo na proto bordu. Ni jednom nisam uspela da uočim haos na osciloskopu. Nakon što sam se uverila da greška nije do spajanja komponenata, odlučila sam da napravim simulaciju u LTspice-u (to je simulacija sa integrisanim kolom TL082). Tamo, takođe nisam imala pokazatelje haosa. 
 <br>_ponedeljak, 3. jul 2023._
 - sastavila sam kolo na ploči i zalemila komponente prateći šemu.
